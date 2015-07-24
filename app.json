@@ -1,0 +1,7 @@
+{
+  "name": "SlidePushMenu1",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "",
+  
+  "keywords": ["node", "express", "static"]
+}

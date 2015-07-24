@@ -1,0 +1,24 @@
+{
+  "name": "SlidePushMenu1",
+  "version": "0.1.4",
+  "description": "A sample Node.js app using Express 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    
+    "express": "~4.9.x"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
